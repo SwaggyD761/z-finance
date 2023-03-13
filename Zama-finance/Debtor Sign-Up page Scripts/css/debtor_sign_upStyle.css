@@ -1,0 +1,29 @@
+.container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .creditor-sign-up-form-area {
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        padding: 20px;
+      }
+      .creditor-sign-up-form label {
+        display: block;
+        margin-bottom: 10px;
+      }
+      .creditor-sign-up-form input[type="file"] {
+        margin-bottom: 20px;
+      }
+      .creditor-sign-up-form input[type="submit"] {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 20px;
+        cursor: pointer;
+      }
